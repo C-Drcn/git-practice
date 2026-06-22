@@ -1,3 +1,3 @@
 # git-practice
-Hello Git World!
-Hi
+Hello Git World! <br>
+Hi.
